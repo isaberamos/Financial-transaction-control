@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-27T12:29:29.324Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-05-27T12:32:29.324Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 2300,
+      "createdAt": "2023-05-25T12:32:29.324Z"
+    },
+    {
+      "description": "Freela de wordpress",
+      "price": 3500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-05-31T12:31:04.544Z",
+      "id": 4
+    },
+    {
+      "description": "Mercado",
+      "price": 514,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-31T12:33:30.631Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-05-31T12:34:04.465Z",
+      "id": 6
+    },
+    {
+      "description": "Aluguel",
+      "price": 700,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2023-05-31T12:34:43.674Z",
+      "id": 7
+    },
+    {
+      "description": "Pastel e caldo de cana",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-31T12:40:26.234Z",
+      "id": 8
+    },
+    {
+      "description": "Gás",
+      "price": 120,
+      "category": "Moradia",
+      "type": "income",
+      "createdAt": "2023-05-31T13:06:52.615Z",
+      "id": 9
+    },
+    {
+      "description": "Pão com glúten",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-31T22:51:16.987Z",
+      "id": 10
+    },
+    {
+      "description": "Venda de site",
+      "price": 50000,
+      "category": "Serviço",
+      "type": "income",
+      "createdAt": "2023-05-31T22:51:36.670Z",
+      "id": 11
+    }
+  ]
+}
